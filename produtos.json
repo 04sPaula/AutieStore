@@ -1,0 +1,80 @@
+{
+    "Pelucias": [
+        {
+            "NomeProduto": "Pel\u00facia Autismo",
+            "Preco": 89.99,
+            "QuantiaDisponivel": 46
+        },
+        {
+            "NomeProduto": "Pel\u00facia TDAH",
+            "Preco": 89.99,
+            "QuantiaDisponivel": 42
+        },
+        {
+            "NomeProduto": "Pel\u00facia TOC",
+            "Preco": 74.49,
+            "QuantiaDisponivel": 13
+        },
+        {
+            "NomeProduto": "Pel\u00facia TEPT",
+            "Preco": 84.99,
+            "QuantiaDisponivel": 16
+        },
+        {
+            "NomeProduto": "Pel\u00facia TAB",
+            "Preco": 87.99,
+            "QuantiaDisponivel": 37
+        }
+    ],
+    "Abafadores": [
+        {
+            "NomeProduto": "Abafador interno de silicone",
+            "Preco": 14.99,
+            "QuantiaDisponivel": 50
+        },
+        {
+            "NomeProduto": "Abafador externo",
+            "Preco": 29.49,
+            "QuantiaDisponivel": 50
+        },
+        {
+            "NomeProduto": "Fone interno com ANC",
+            "Preco": 139.99,
+            "QuantiaDisponivel": 38
+        },
+        {
+            "NomeProduto": "Fone externo Q30 com ANC",
+            "Preco": 219.99,
+            "QuantiaDisponivel": 47
+        }
+    ],
+    "Brinquedos sensoriais": [
+        {
+            "NomeProduto": "Bola sensorial squishy",
+            "Preco": 8.99,
+            "QuantiaDisponivel": 79
+        },
+        {
+            "NomeProduto": "anel anti-stress com bolinhas",
+            "Preco": 12.99,
+            "QuantiaDisponivel": 26
+        },
+        {
+            "NomeProduto": "pop it colorido",
+            "Preco": 9.99,
+            "QuantiaDisponivel": 45
+        }
+    ],
+    "Cordoes de identificacao": [
+        {
+            "NomeProduto": "Cordao Girassol",
+            "Preco": 10.99,
+            "QuantiaDisponivel": 54
+        },
+        {
+            "NomeProduto": "Cordao autismo/quebra-cabeca",
+            "Preco": 10.99,
+            "QuantiaDisponivel": 41
+        }
+    ]
+}
